@@ -1,28 +1,68 @@
 ---
 slug: welcome
-title: Welcome
+title: 欢迎来到 SIP Tips！
 authors: [Henry]
-#tags: [facebook, hello, docusaurus]
+tags: [welcome, sip]
 ---
 
+大家好！欢迎来到 **SIP Tips** 博客！🎉
 
-Here are a few tips you might find useful.
+这是我创建这个网站后的第一篇博客文章。在这里，我想和大家分享一下创建这个网站的初衷，以及未来的内容规划。
 
 <!-- truncate -->
 
-Simply add Markdown files (or folders) to the `blog` directory.
+## 🌟 为什么创建这个网站？
 
-Regular blog authors can be added to `authors.yml`.
+在学习和使用 SIP 协议的过程中，我发现虽然网上有很多资料，但往往比较分散，而且很多内容要么过于理论化，要么缺乏实践案例。因此，我决定创建这个网站，用来：
 
-The blog post date can be extracted from filenames, such as:
+- **记录学习笔记**：整理 SIP 协议的知识点，形成系统化的学习资料
+- **分享实践经验**：记录在实际项目中遇到的问题和解决方案
+- **探索相关技术**：研究 FreeSWITCH、Kamailio 等 SIP 相关工具和框架
+- **交流与成长**：希望能与同样对 SIP 感兴趣的朋友一起交流学习
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+## 📖 内容规划
 
-A blog post folder can be convenient to co-locate blog post images:
+未来的内容将主要围绕以下几个方向展开：
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+### SIP 协议基础
+- SIP 消息结构与格式
+- SIP 会话建立流程
+- SIP 认证与安全
+- 常见 SIP 场景分析
 
-The blog supports tags as well!
+### FreeSWITCH
+- FreeSWITCH 安装与配置
+- 拨号计划（Dialplan）编写
+- 模块开发与扩展
+- 性能优化与故障排查
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+### Kamailio
+- Kamailio 核心概念
+- 路由脚本编写
+- 负载均衡与高可用
+- 实战案例分享
+
+### 实践项目
+- 搭建简单的 SIP 服务器
+- 实现呼叫转移、会议等功能
+- SIP 与 WebRTC 集成
+- 生产环境部署经验
+
+## 💬 关于我
+
+我是一名对实时通信技术充满热情的开发者，在 SIP 相关领域有一些实践经验。创建这个网站，既是对自己学习过程的总结，也希望能帮助到其他正在学习 SIP 的朋友。
+
+## 🤝 一起成长
+
+如果你也对 SIP 技术感兴趣，欢迎：
+
+- 在 [GitHub](https://github.com/45f81f03f177a307/my-website) 上关注本项目
+- 提出你的建议和想法
+- 分享你的经验和心得
+- 指出文章中的错误或不足
+
+让我们一起在 SIP 的世界里探索和成长！
+
+---
+
+感谢你的阅读，期待与你在后续的文章中再见！👋
