@@ -2,46 +2,50 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 欢迎来到 SIP Tips 👋
 
-Let's discover **Docusaurus in less than 5 minutes**.
+欢迎来到 **SIP Tips**！这是一个专注于 **SIP (Session Initiation Protocol)** 学习与开发的知识分享平台。
 
-## Getting Started
+## 🎯 关于本站
 
-Get started by **creating a new site**.
+SIP Tips 致力于分享 SIP 协议相关的学习笔记、开发经验和实践心得。无论你是刚接触 SIP 的初学者，还是有一定经验的开发者，都能在这里找到有价值的内容。
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### 📚 你将在这里找到
 
-### What you'll need
+- **学习笔记**：SIP 协议的基础知识、核心概念和技术细节
+- **开发经验**：实际项目中遇到的问题和解决方案
+- **技术探索**：SIP 相关工具和框架的使用心得
+- **最佳实践**：业界推荐的开发规范和设计模式
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## 🚀 快速开始
 
-## Generate a new site
+### 主要内容模块
 
-Generate a new Docusaurus site using the **classic template**.
+本站目前包含以下主要内容：
 
-The classic template will automatically be added to your project after you run the command:
+- **[FreeSWITCH](./FreeSWITCH/)**：开源的电话交换平台相关内容
+- **[Kamailio](./Kamailio/)**：高性能 SIP 服务器相关内容
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### 推荐阅读路径
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+如果你是 SIP 初学者，建议按以下顺序学习：
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+1. 了解 SIP 协议的基本概念
+2. 学习 SIP 消息结构和交互流程
+3. 实践搭建简单的 SIP 服务
+4. 深入学习具体的 SIP 服务器实现
 
-## Start your site
+## 💡 学习建议
 
-Run the development server:
+- **理论与实践结合**：在学习理论知识的同时，动手搭建环境进行实践
+- **循序渐进**：从基础概念开始，逐步深入到复杂场景
+- **多做笔记**：记录学习过程中的疑问和心得
+- **积极交流**：遇到问题时，善于利用社区资源
 
-```bash
-cd my-website
-npm run start
-```
+## 📝 持续更新
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+本站内容会持续更新，欢迎通过 [GitHub](https://github.com/45f81f03f177a307/my-website) 提出建议或贡献内容。
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+---
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+让我们开始 SIP 的学习之旅吧！🎉
