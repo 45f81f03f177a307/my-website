@@ -11,32 +11,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: '📖 学习笔记',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        记录 SIP 学习过程中的心得体会，
+        分享一些有趣的发现和思考。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '🛠️ 开发经验',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        分享 SIP 开发中遇到的问题和解决方法，
+        记录实践过程中的点滴收获。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '💡 技术探索',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        探索 SIP 相关的技术和工具，
+        一起交流学习，共同进步。
       </>
     ),
   },

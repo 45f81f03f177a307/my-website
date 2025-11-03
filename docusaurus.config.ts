@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'SIP Tips',
-  tagline: '主要是帮助',
+  tagline: '分享 SIP 学习笔记与开发经验',
   favicon: 'img/egg_tart.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
